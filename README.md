@@ -1,6 +1,6 @@
 # Weather-Web-App
-***Simple Weather Web tracing data from API***
-Click this Link to Open:- https://shah20-weather-application.herokuapp.com/
+***Simple Weather Web tracing data from API*** </br>
+**Click this Link to Open:-** https://shah20-weather-application.herokuapp.com/
 
 <hr>
 <p>
